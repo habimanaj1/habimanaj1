@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me on my email
 - 😄 Pronouns: he
-- ⚡ Fun fact: watcing basketball and soccer
+- ⚡ Fun fact: watching basketball and soccer
 
 <!---
 habimanaj1/habimanaj1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
